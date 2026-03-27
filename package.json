@@ -1,0 +1,11 @@
+{
+  "name": "site-starter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Site starter template with professional design skill",
+  "scripts": {
+    "dev": "echo 'Run /start or say «Настрой проект» to begin setup'",
+    "build": "echo 'Run /start or say «Настрой проект» to begin setup'",
+    "preview": "echo 'Run /start or say «Настрой проект» to begin setup'"
+  }
+}
